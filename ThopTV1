@@ -1,10 +1,10 @@
 {
    "Ads":[
       {
-         "app_id":"ca-app-pub-3940256099942544~3347511711",
-         "banner_id":"ca-app-pub-3940256099942544/6300978112",
-         "interstitial_id":"ca-app-pub-3940256099942544/1033173713",
-         "native_id":"ca-app-pub-3940256099942544/2247696114",
+         "app_id":"ca-app-pub-6899771710867104~4407139323",
+         "banner_id":"ca-app-pub-6899771710867104/3094057650",
+         "interstitial_id":"ca-app-pub-6899771710867104/8154812646",
+         "native_id":"ca-app-pub-6899771710867104/6041437583",
          "qureka_ads":"https://831.win.qureka.com/",
          "status":"true",
          "splash_ads":"false"
